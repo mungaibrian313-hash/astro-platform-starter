@@ -1,0 +1,119 @@
+name: Munga | Black Mark Studio 
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Munga | Black Mark Studio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0f0f0f;
+      color: #f2f2f2;
+      line-height: 1.6;
+    }
+    header {
+      background: #000;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin: 0;
+      letter-spacing: 2px;
+    }
+    header p {
+      color: #aaa;
+      margin-top: 10px;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      border-bottom: 2px solid #444;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    .services li {
+      margin-bottom: 10px;
+    }
+    .cta {
+      background: #111;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .cta a {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 15px 25px;
+      background: #fff;
+      color: #000;all colors are available 
+      text-decoration: none;ur choice 
+      font-weight: bold;
+      border-radius: 4px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Munga | Black Mark Studio</h1>
+  <p>Custom Tattoos • All Styles • Original Art</p>
+</header>
+
+<section>
+  <h2>About</h2>
+  <p>
+    Black Mark Studio is led by <strong>Munga</strong>, a versatile tattoo artist
+    specializing in all tattoo styles — from fine line and realism to tribal,
+    lettering, and custom designs.
+  </p>
+  <p>
+    Currently operating as a private home studio, with plans to open a full tattoo shop.
+    Quality, hygiene, and original artwork are always guaranteed.
+  </p>
+</section>
+
+<section>
+  <h2>Services</h2>
+  <ul class="services">
+    <li>✔ Custom tattoo designs</li>
+    <li>✔ Black & grey tattoos</li>
+    <li>✔ Color tattoos</li>
+    <li>✔ Tribal & cultural tattoos</li>
+    <li>✔ Lettering & script</li>
+    <li>✔ Cover-ups & touch-ups</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Portfolio</h2>
+  <p>
+    Portfolio coming soon.  
+    Follow my WhatsApp status or Instagram to see recent work.
+  </p>
+</section>
+
+<section class="cta">
+  <h2>Bookings & Enquiries</h2>
+  <p>Message directly on WhatsApp to book a session.</p>
+  <a href="https://wa.me/254XXXXXXXXX">Book via WhatsApp</a>
+  <p style="margin-top:15px; color:#aaa;">
+    Home studio • Appointments only
+  </p>
+</section>
+
+<footer>
+  © 2025 Black Mark Studio • Tattoos by Munga
+</footer>
+
+</body>
+</html>NodeJS with Webpack
